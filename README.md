@@ -20,11 +20,7 @@
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/office/45/000000/figma.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.mathworks.com/?s_tid=gn_logo" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a>
-  <a href="https://www.overleaf.com/" target="_blank"> <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="48" height="48"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-	</p>
   
 
 <!-- - 🔭 I’m currently working on ...
