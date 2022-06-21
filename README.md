@@ -2,7 +2,8 @@
 
 # Hi 👋, I am Karina
 
-- 👋🏻 What´s Up! I am Karina, i love my name.
+- 👋🏻 What´s Up! I am Karina, i love cats.
+- ⚡ I love creating solutions, being effective with actions and achieving what was planned.
 - 🌱 I am Front End developer motivated to learn and be FullStack.
 - 👀 As a goal I want to develop high-impact projects and start in artificial intelligence.
 
