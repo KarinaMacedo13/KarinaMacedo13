@@ -8,14 +8,12 @@
 - 👀 As a goal I want to develop high-impact projects and start in artificial intelligence.
 
 ## 💻〽 My GitHub Stats:
+<div align=center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaMacedo13&theme=radical)](https://github.com/KarinaMacedo13/github-readme-stats)
-
 ![KarinaMacedo13's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaMacedo13&show_icons=true&theme=radical)
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=KarinaMacedo13&theme=radical" />
+</div>
 
-<tr align=center>
-  	<td  align=center><img  src="https://github-readme-streak-stats.herokuapp.com/?user=KarinaMacedo13&theme=radical" /></td>
- </tr>
-  
 ## 🚀 Languages and Tools:
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
