@@ -6,6 +6,8 @@
 - 🌱 I am Front End developer motivated to learn and be FullStack.
 - 👀 As a goal I want to develop high-impact projects and start in artificial intelligence.
 
+## 💻〽 My GitHub Stats:
+  ![KarinaMacedo13's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaMacedo13&show_icons=true&theme=radical)
   
 ## 🚀 Languages and Tools:
 <p align="center"> 
