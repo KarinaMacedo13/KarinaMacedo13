@@ -27,7 +27,15 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
   
-
+<p align="center"><strong>Connect With Us ✉📞 :</strong></p>
+<div align="center" align=center> 
+<a href="mailto:ruth.macedo@ucsp.edu.pe"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+&nbsp;
+    <a href="https://www.linkedin.com/in/karinamacedo13/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+&nbsp;
+    <a href="https://github.com/KarinaMacedo13"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+  
+  <div>
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
