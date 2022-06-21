@@ -1,3 +1,4 @@
+![WELCOME](https://user-images.githubusercontent.com/98657256/174705122-38558376-a073-477a-9bfa-032969cb3231.png)
 
 # Hi 👋, I am Karina
 
