@@ -7,8 +7,10 @@
 - 👀 As a goal I want to develop high-impact projects and start in artificial intelligence.
 
 ## 💻〽 My GitHub Stats:
-  ![KarinaMacedo13's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaMacedo13&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaMacedo13&theme=radical)](https://github.com/KarinaMacedo13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaMacedo13&theme=radical)](https://github.com/KarinaMacedo13/github-readme-stats)
+
+![KarinaMacedo13's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaMacedo13&show_icons=true&theme=radical)
+  
   
 ## 🚀 Languages and Tools:
 <p align="center"> 
