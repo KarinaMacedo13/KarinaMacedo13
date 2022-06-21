@@ -11,7 +11,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaMacedo13&theme=radical)](https://github.com/KarinaMacedo13/github-readme-stats)
 
 ![KarinaMacedo13's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarinaMacedo13&show_icons=true&theme=radical)
-  
+
+<tr align=center>
+  	<td  align=center><img  src="https://github-readme-streak-stats.herokuapp.com/?user=KarinaMacedo13&theme=radical" /></td>
+ </tr>
   
 ## 🚀 Languages and Tools:
 <p align="center"> 
